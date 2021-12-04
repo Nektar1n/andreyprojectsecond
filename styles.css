@@ -80,6 +80,8 @@
     border: solid 10px green;
     transition: all 1s ease;
     border-radius: 30px;
+    position: relative;
+        left:-20px;
 }
 /*.lh:hover{*/
 /*    background-color: aqua;*/
